@@ -108,7 +108,7 @@ cd random-value-generator-dashboard
 
 ## Usage
 
-Once both the backend and frontend are running, navigate to `http://localhost:3000` in your web browser. You should see the dashboard with multiple boxes displaying random values that refresh based on their specified intervals.
+Once both the backend and frontend are running, navigate to `http://localhost:5173` in your web browser. You should see the dashboard with multiple boxes displaying random values that refresh based on their specified intervals.
 
 ## Conclusion
 
