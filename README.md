@@ -103,7 +103,7 @@ cd random-value-generator-dashboard
 
 3. Start the React development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
